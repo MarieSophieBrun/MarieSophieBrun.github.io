@@ -1,0 +1,26 @@
+html {
+    padding: 5px;
+}
+.carousel-inner #img-carrousel{
+    height: 70vh;
+}
+
+.images-films {
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    margin: 0 2px 0 2px;
+}
+
+.column {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#title-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0px 10px 13px;
+}
